@@ -11,7 +11,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="readme-assets/logo.png" alt="Logo" height="80">
+  <a href="#product-images">
+    <img src="readme-assets/logo.png" alt="Logo" height="80">
+  </a>
 
   <h3 align="center">Match Maid</h3>
 
@@ -56,12 +58,12 @@
 [![Match Maid Screenshot][product-screenshot]](#product-images)
 
 This project ideia is our go-to at the university. We've changed it multiple times during the course, usually changing the interface and the languages/frameworks it's built upon.
+
 This iteration was made during the Systems Analysis and Modeling classes, but the focus was not on exactly building 'it', but much more on planning 'it'.
 Anyways, in this iteration, the interface got remade and improved, the backend was rebuilt using Express and MongoDB and the system ideia itself got some changes.
 In this project, unlike the others that I made, we had a short time constraint.
 
 So, no major new technologies were used, but I still tried some minor new experiments like:
-
 - React Context API (that I kinda knew how it worked, but I hadn't tried it until then);
 - MongoDB (people talked a lot of how easy it were, and we had to remake the entire backend, so, why not?);
 
@@ -86,23 +88,23 @@ This project was built with:
 
 ##### Home Page
 
-![Home page screenshot][homepage-screenshot]
+[![Home page screenshot][homepage-screenshot]](#home-page)
 
 ##### Search Page
 
-![Search page screenshot][searchpage-screenshot]
+[![Search page screenshot][searchpage-screenshot]](#search-page)
 
 ##### Profile Page
 
-![Profile page screenshot][profilepage-screenshot]
+[![Profile page screenshot][profilepage-screenshot]](#profile-page)
 
 ##### SignIn Page
 
-![SignIn page screenshot][signinpage-screenshot]
+[![SignIn page screenshot][signinpage-screenshot]](#signin-page)
 
 ##### SignUp Page
 
-![SignUp page screenshot][signuppage-screenshot]
+[![SignUp page screenshot][signuppage-screenshot]](#signup-page)
 
 <!-- GETTING STARTED -->
 
