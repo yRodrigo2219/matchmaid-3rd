@@ -1,0 +1,28 @@
+.Modal {
+  position: absolute;
+  width: 1312px;
+  height: 80vh;
+  background-color: #fdfff3;
+  padding: 32px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Modal > h5 {
+  z-index: 1;
+  width: fit-content;
+}
+
+.Overlay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 999;
+  background-color: hsla(70, 4%, 29%, 0.603);
+}
